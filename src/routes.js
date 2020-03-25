@@ -27,7 +27,7 @@ function Routes() {
                         name="Main"
                         component={Main}
                         options={{
-                            title: 'Main',
+                            title: 'Usuários',
                         }}
                     />
 
